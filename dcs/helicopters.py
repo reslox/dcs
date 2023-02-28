@@ -9,6 +9,7 @@ from dcs.liveries_scanner import Liveries
 
 class HelicopterType(FlyingType):
     helicopter = True
+    vtol = True
 
 
 class Mi_24V(HelicopterType):

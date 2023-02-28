@@ -7723,6 +7723,7 @@ class AJS37(PlaneType):
 class AV8BNA(PlaneType):
     id = "AV8BNA"
     flyable = True
+    vtol = True
     height = 3.55
     width = 9.24
     length = 14.12

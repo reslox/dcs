@@ -59,6 +59,7 @@ class FlyingType(UnitType):
     group_size_max = 4
     large_parking_slot = False
     helicopter = False
+    vtol = False
     fuel_max: float = 0
     max_speed: float = 500
     height: float = 0
