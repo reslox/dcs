@@ -5,7 +5,7 @@ from digital combat simulator.
 
 Possible use cases are:
 
- * assisting mission creators
+ * assisting mission creators 1
  * random mission creation
  * write an external mission editor on top of it
  * data export from existing missions
