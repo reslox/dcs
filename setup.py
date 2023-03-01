@@ -16,7 +16,7 @@ setup(
     version='0.14.0',
     description="A Digital Combat Simulator mission builder framework",
     long_description=long_description,
-    url='https://github.com/pydcs/dcs',
+    url='https://github.com/reslox/dcs',
     author="Peinthor Rene",
     author_email="peinthor@gmail.com",
     license="LGPLv3",
